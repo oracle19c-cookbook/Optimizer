@@ -11,3 +11,5 @@
 
 <H2><font color="green"> 소개자료 </fornt></H2>
 <H3><a href="https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-optimizer-with-oracledb-19c-5324206.pdf"> The Optimizer in Oracle Database 19c </a></H3>
+<H3><a href="https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-bp-for-stats-gather-19c-5324205.pdf"> Best Practices for Gathering Optimizer Statistics with Oracle Database 19c </a></H3>
+
