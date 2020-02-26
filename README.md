@@ -2,7 +2,7 @@
 
 <H1>19c Performance New Features</H1>
 
-오라클 Database 19c의 Performance 신기능을 정리하였습니다. 
+오라클 데이터베이스의 Performance 신기능을 정리하였습니다. 19c 에서는 개발자, 튜너를 위한 기능 뿐만 아니라 엑사데이터를 위한 특화된 기능도 포함됩니다. 
 
 <H2><font color="green"> 소개자료 </fornt></H2>
 <H3><a href="https://github.com/oracle19c-cookbook/Performance-Management/blob/master/Oracle19c_performance_new_features.pdf"> Oracle 19c Performance New Features </a></H3>
