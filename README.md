@@ -1,6 +1,6 @@
 # Performance-Management
 
-<H1>1. Performance on Exadata</H1>
+<H1>19c Performance New Features</H1>
 
 오라클 Database 19c의 Performance 신기능을 정리하였습니다. 
 
