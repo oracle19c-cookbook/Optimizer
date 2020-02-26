@@ -5,7 +5,7 @@
 오라클 Database 19c의 Performance 신기능을 정리하였습니다. 
 
 <H2><font color="green"> 소개자료 </fornt></H2>
-<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/diagnosing-and-resolving-problems.html#GUID-1CF7E2B7-1BF8-4907-889E-1107CAA83E51"> Oracle 19c Performance New Features </a></H3>
+<H3><a href="https://github.com/oracle19c-cookbook/Performance-Management/blob/master/Oracle19c_performance_new_features.pdf"> Oracle 19c Performance New Features </a></H3>
 
 <H2><font color="green"> Hands On </fornt></H2>
 <H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/admin/diagnosing-and-resolving-problems.html#GUID-1CF7E2B7-1BF8-4907-889E-1107CAA83E51"> 19c SQL Quarantine for Execution Plans for SQL Statements Consuming Excessive System Resources </a></H3>
