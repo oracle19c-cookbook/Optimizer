@@ -13,6 +13,7 @@
 
 <H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/generating-and-displaying-execution-plans.html#GUID-60FF7945-DFA3-4E97-89D0-B4F11543C680"> 19c Comparing Execution Plans: Tutorial </a></H3>
 
+<H3><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/monitoring-database-operations.html#GUID-4048D00E-2635-42C8-A37D-71EFAC619062"> 19c Real-time SQL monitoring for developers </a></H3>
 
 <H3><a href="https://blogs.oracle.com/optimizer/what-is-automatic-sql-plan-management-and-why-should-you-care"> 19c What is automatic SQL plan management and why should you care?  </a></H3>
 <H3><a href="https://oracle-base.com/articles/19c/automatic-indexing-19c"> 19c Automatic Indexing (DBMS_AUTO_INDEX) in Oracle Database 19c (외부자료) </a></H3>
