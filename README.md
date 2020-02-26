@@ -1,6 +1,6 @@
-# Performance-Management
+# Performance
 
-<H1>Performance New Features</H1>
+<H1>다양한 Performance 신기능</H1>
 <img src="https://github.com/oracle19c-cookbook/Performance-Management/blob/master/performance.jpg" width="600px" title="oim_1" alt="oim_1"></img><br/>
 오라클 데이터베이스의 Performance 신기능을 정리하였습니다. 19c 에서는 개발자를 위한 Real-time SQL monitoring, 튜너를 위한 Reporting on Hints, Comparing Execution Plans 등의 기능 뿐만 아니라 엑사데이터를 위한 Automatic Indexing, SQL Quarantine 과 같은 특화된 기능도 포함됩니다. 
 
