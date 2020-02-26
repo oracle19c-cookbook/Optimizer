@@ -13,3 +13,4 @@
 <H3><a href="https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-optimizer-with-oracledb-19c-5324206.pdf"> The Optimizer in Oracle Database 19c </a></H3>
 <H3><a href="https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-bp-for-stats-gather-19c-5324205.pdf"> Best Practices for Gathering Optimizer Statistics with Oracle Database 19c </a></H3>
 
+<H3><a href="https://www.oracle.com/technetwork/database/bi-datawarehousing/twp-sql-plan-mgmt-19c-5324207.pdf"> SQL Plan Management in Oracle Database 19c </a></H3>
